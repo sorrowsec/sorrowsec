@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&pause=1000&color=000000&center=true&width=435&lines=sorrowsec" alt="Typing SVG" /></a>
+<a href=""https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=40&pause=1000&color=000000&center=true&vCenter=true&width=200&height=200&lines=sorrowsec" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     ❀ 19 year old cyber security and computer science student
